@@ -11,3 +11,4 @@ Retail Data Analytics Optimization Platform: Snowflake & AWS Ecosystem Integrati
 7. Redshift for immediate analytics, boosting overall performance.
 8. Utilized Git/GitHub for source code management and implemented CI/CD pipelines, bolstering collaboration, enhancing system reliability, and expediting deployment time.
 
+![image](https://github.com/20000705/WeCloudData-Project/assets/113875251/a8ee768e-d066-4057-ad2a-565f40b815d7)
