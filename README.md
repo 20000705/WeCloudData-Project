@@ -1,4 +1,4 @@
-# WeCloudData-Project
+# WeCloudData End-to-End Retail Data Analytics Optimization Project
 
 Retail Data Analytics Optimization Platform: Snowflake & AWS Ecosystem Integration
 
