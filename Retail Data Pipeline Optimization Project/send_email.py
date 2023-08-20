@@ -26,7 +26,7 @@ def send_email():
     CHARSET = "UTF-8"
 
     # Create a new SES resource and specify a region.
-    client = boto3.client('ses',region_name=AWS_REGION, aws_access_key_id='AKIA5PTFUWHUPLDDE4WI',aws_secret_access_key='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')
+    client = boto3.client('ses',region_name=AWS_REGION, aws_access_key_id='',aws_secret_access_key='')
 
     # Try to send the email.
     try:
